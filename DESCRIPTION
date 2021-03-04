@@ -1,0 +1,16 @@
+Package: Proiect1BCA
+Title: Proiect 1 PS 
+Version: 0.0.0.9000
+Authors@R: c(
+  person("Bogdan-Andrei", "Baias", role = c("aut" , "cre") , email="baias.bogdan.andrei@gmail.com"),
+  person("Victor Andrei", "Cociobanu", email = "victor-andrei.cociobanu@gmail.com", role = c("aut")),
+  person("Darius George", "Atudore", email = "darius-george.atudore@gmail.com", role = c("aut"))
+  )
+Maintainer: Bogdan-Andrei Baias <baias.bogdan.andrei@gmail.com>
+Description: R package working with random continous variables -  Probability and Statistics project.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
